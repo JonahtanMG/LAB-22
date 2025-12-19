@@ -1,16 +1,15 @@
 body { 
-    font-family: Arial, sans-serif; 
-    margin: 32px; 
-    background: #f7f7f7; 
+    background: #333; 
 }
-h1 { 
-    color: #333; 
+
+h1, h2, label{ 
+    color: #ffffff; 
+}
+
+button { 
+    padding: 8px 12px; 
 }
 pre { 
     background: #fff; 
     padding: 16px; 
-    border: 1px solid #ddd; 
-}
-button { 
-    padding: 8px 12px; 
 }
